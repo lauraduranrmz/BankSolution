@@ -1,0 +1,26 @@
+[
+  {
+    "TaxRegime": "M",
+    "ID": 1,
+    "Name": "Laura",
+    "Email": "durananalaura130@gmail.com",
+    "Balance": 4080.0,
+    "RegisterDate": "2023-09-16T12:41:22.1355422-05:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 2,
+    "Name": "Cecilia",
+    "Email": "cecy@gmail.com",
+    "Balance": 4200.0,
+    "RegisterDate": "2023-09-16T12:41:22.1407137-05:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 3,
+    "Name": "Anita",
+    "Email": "ana01@gmail.com",
+    "Balance": 1530.0,
+    "RegisterDate": "2023-09-16T14:12:41.7971659-05:00"
+  }
+]
