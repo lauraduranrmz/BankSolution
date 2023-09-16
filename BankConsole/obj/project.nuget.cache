@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKAuPhcUjDPEHX797hJ5Q8sAsQl524VAsPkE38ZHsZ4meKQcJ4hbhzADZXZVcSnT3DbEtUHRYzKXUZ06+zdWUw==",
+  "dgSpecHash": "dgARbn9GsWYwc9FoEQw6+ONilMcg7Jtggk/zm+pVIBzljPuZGQR2a84/9IB78g2q50DNob15ghmXOcuUonGXFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\BankConsole.csproj",
+  "projectFilePath": "c:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\BankConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duran\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\duran\\.nuget\\packages\\mailkit\\4.2.0\\mailkit.4.2.0.nupkg.sha512",

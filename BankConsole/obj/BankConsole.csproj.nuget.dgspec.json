@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\BankConsole.csproj": {}
+    "c:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\BankConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\BankConsole.csproj": {
+    "c:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\BankConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\BankConsole.csproj",
+        "projectUniqueName": "c:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\BankConsole.csproj",
         "projectName": "BankConsole",
-        "projectPath": "C:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\BankConsole.csproj",
+        "projectPath": "c:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\BankConsole.csproj",
         "packagesPath": "C:\\Users\\duran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\obj\\",
+        "outputPath": "c:\\Users\\duran\\CursoNET\\BankSolution\\BankConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duran\\AppData\\Roaming\\NuGet\\NuGet.Config"
